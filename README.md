@@ -12,6 +12,17 @@
 
   
 -------
+### About Me
+<div> 
+Hi, my name is Andrea! I'm a full-stack software engineer with the passion to connect my creative background with my analytical nature. 
+
+My background was in medical sciences and I have been an artist all my life. After a series of life events, I made the difficult decision to give up the challenging but rewarding career in medicine and pursue my passion for creativity. I’ve always been intrigued by the field of software development as it seems to combine arts and science perfectly. 
+
+After completing a few beginner JavaScript courses online, I fell in love with coding and was determined to find a more structured environment to hone my skills and learn what was necessary to be successful within this field. The rigorous course at App Academy provided me the structure I needed as a new developer to learn the technologies needed within the modern world as well as the ability to adapt to a quick-paced environment. Within the span of 6 months, I learned several programming languages, libraries, and databases, such as: JavaScript, Python, HTML, CSS, React/Redux, SQL, Flask and Express, both in the form of attending lectures and daily pair-programming. With the skills acquired from the course, I was able to successfully launch three full-stack projects – 2 solo and 1 group, each within a 2 week frame.
+
+This change in direction has made me feel a greater sense of fulfillment and love for what I do, and I truly want to continue on building my career in full stack development while expanding my knowledge from my teammates, peers, and any future projects.
+</div>
+-------
 ### My Projects
 * [East Elm - West Elm clone](https://east-elm.onrender.com/)
 * [Anya - Etsy clone](https://anya-etsy.onrender.com/) 
