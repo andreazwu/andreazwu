@@ -49,6 +49,9 @@
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/andreazwu/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/andreazwu" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+<a href="mailto:angeeya.wu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 <!--
 **andreazwu/andreawu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
