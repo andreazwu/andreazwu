@@ -1,5 +1,5 @@
 <h3 align="center">
-  Heya 👋 my name is Andrea Wu. Welcome to my GitHub profile!
+  Heya 👋  My name is Andrea Wu. Welcome to my GitHub profile!
 </h3>
 
 <p align="center">
