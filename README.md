@@ -10,10 +10,7 @@
  <image src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="340" height="auto" >
 </div>
 
-<p>
-    I dedicated 10 years of my life to medicine. I'm excited to embark on the journey of software development!
-<p>
-
+  
 -------
 ### My Projects
 * [East Elm - West Elm clone](https://east-elm.onrender.com/)
