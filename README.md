@@ -12,12 +12,10 @@
 
   
 -------
-### My Projects
+## Projects:
 * [East Elm - West Elm clone](https://east-elm.onrender.com/)
 * [Anya - Etsy clone](https://anya-etsy.onrender.com/) 
 * [AirPuP - Airbnb clone](https://andrea-airbnb.herokuapp.com/)
-
--------
      
 ## Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +39,8 @@
 ![HEROKU](https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465) 
 ![POSTMAN](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465) 
 ![VISUAL STUDIO CODE](https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
-------- 
+
+## GitHub Stats:
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazwu&theme=omni&custom_title=Languages&langs_count=4)
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazwu&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
 
