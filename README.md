@@ -42,9 +42,13 @@
 ![POSTMAN](https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465) 
 ![VISUAL STUDIO CODE](https://camo.githubusercontent.com/a0484e6383e852e622da1e934b7724921ab9b69d69246d90f899424b01f6deb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
 ------- 
- 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=andreazwu&theme=flag-india&hide_border=false)<br/>
+
+<!--
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreazwu&theme=omni&custom_title=Languages&langs_count=4)
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreazwu&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=40)
+--!>
 
 ## Let's Get Connected! 
 <a href="https://github.com/andreazwu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/andreazwu/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://angel.co/u/andreazwu" target="_blank">![AngelList](https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white)</a> <a href="mailto:angeeya.wu@gmail.com" target="_blank">
