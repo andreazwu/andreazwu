@@ -1,5 +1,5 @@
 <h3 align="center">
-  Heya <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  My name is Andrea. Welcome to my GitHub!
+  Heya 👋 My name is Andrea. Welcome to my GitHub!
 </h3>
 
 <p align="center">
