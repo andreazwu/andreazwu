@@ -12,7 +12,7 @@
 
   
 ## My Projects:
-* [East Elm - West Elm clone](https://east-elm.onrender.com/)
+* [East Elm - West Elm inspired eCommerce](https://east-elm.onrender.com/)
 * [Anya - Etsy clone](https://anya-etsy.onrender.com/) 
 * [AirPuP - Airbnb clone](https://andrea-airbnb.herokuapp.com/)
      
